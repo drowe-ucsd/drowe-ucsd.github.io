@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hi!  My name is Dylan Rowe and I'm a Computer Science and Engineering MS student at UC San Diego.  I mainly focus on geometry processing and computer graphics, but have broad interests within computational mathematics.  I believe that applying geometric ideas to computational problems has the power to change the world.
 
-Please see my projects page for more information on my previous work.
+Please see my [CV]({{ site.url }}/assets/pdf/CV_wi23.pdf) for more information on my previous work.
 
 <!---Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
