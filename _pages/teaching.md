@@ -2,11 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I've taught in the past.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<b>Courses I've TA'd for:</b>
+<p>CSE 274: Discrete Differential Geometry (Winter 2023)</p>
+<p><a href="https://cseweb.ucsd.edu/~alchern/teaching/cse167_fa22/">CSE 167: Introduction to Computer Graphics (Fall 2022)</a></p>
+<p>CSE 101: Design and Analysis of Algorithms (Winter 2022)</p>
+<p><a href="https://cseweb.ucsd.edu/~alchern/teaching/cse167_fa21/">CSE 167: Introduction to Computer Graphics (Fall 2021)</a></p>
