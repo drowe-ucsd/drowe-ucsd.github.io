@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Courses I've taught in the past.
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 <b>Courses I've TA'd for:</b>
