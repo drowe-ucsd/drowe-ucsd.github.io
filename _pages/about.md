@@ -18,13 +18,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi!  My name is Dylan Rowe and I'm a Computer Science and Engineering MS student at UC San Diego.  I mainly focus on geometry processing and computer graphics, but have broad interests within computational mathematics.  I believe that applying geometric ideas to computational problems has the power to change the world.
+Hi!  My name is Dylan Rowe and I'm a Computer Science PhD student at USC.  I mainly focus on geometry processing and computer graphics, but have broad interests within computational mathematics.  I believe that applying geometric ideas to computational problems has the power to change the world.
 
 Please see my [CV]({{ site.url }}/assets/pdf/CV_wi23.pdf) for more information on my previous work.
 
 <!---Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-To contact me, email me at <a href="mailto:drowe@ucsd.edu">drowe@ucsd.edu</a>.
+To contact me, email me at <a href="mailto:dylanr@usc.edu">dylanr@usc.edu</a>.
 
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.-->
 
