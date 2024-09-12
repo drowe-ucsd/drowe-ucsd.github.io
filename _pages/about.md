@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi!  My name is Dylan Rowe and I'm a Computer Science PhD student at USC.  I mainly focus on geometry processing and computer graphics, but have broad interests within computational mathematics.  I believe that applying geometric ideas to computational problems has the power to change the world.
+Hi!  My name is Dylan Rowe and I'm a Computer Science PhD student at USC.  I mainly focus on geometry processing and computer graphics, but have broad interests within computational mathematics.  My research tries to apply geometric ideas to computational problems.
 
 Please see my [CV]({{ site.url }}/assets/pdf/CV_wi23.pdf) for more information on my previous work.
 
